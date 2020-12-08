@@ -1,2 +1,2 @@
 # sentiment_analysis
-Software for sentiment analysis of tweets.
+Software for sentimental analysis of tweets. Поиск постов из Twitter на определённую заданную тему и дальнейшая классификация их содержимого на 5 классов, в зависимости от эмоционального окраса и их содержания: позитивный, негативный, нейтральный, реклама/спам и неопределенный. Реализовано с помощью Python (Django), свёрточной NN.
